@@ -2,7 +2,6 @@
 This is the main activity class for the MyFlora Android app. Here's a breakdown of what this code does:
 
 Extends AppCompatActivity: This class is the base for activities that use the modern Android components and features while maintaining backward compatibility.
-
 EdgeToEdge.enable(this): This enables edge-to-edge display, allowing your app to draw behind system bars like the status bar and navigation bar for a more immersive UI.
 
 setContentView(R.layout.activity_main): Sets the layout defined in activity_main.xml as the UI for this activity.
