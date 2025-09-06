@@ -5,6 +5,7 @@ Extends AppCompatActivity: This class is the base for activities that use the mo
 EdgeToEdge.enable(this): This enables edge-to-edge display, allowing your app to draw behind system bars like the status bar and navigation bar for a more immersive UI.
 
 setContentView(R.layout.activity_main): Sets the layout defined in activity_main.xml as the UI for this activity.
+.
 
 Handling Window Insets:
 
