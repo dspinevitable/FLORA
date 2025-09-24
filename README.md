@@ -6,7 +6,6 @@ EdgeToEdge.enable(this): This enables edge-to-edge display, allowing your app to
 
 setContentView(R.layout.activity_main): Sets the layout defined in activity_main.xml as the UI for this activity.
 
-
 Handling Window Insets:
 
 java
